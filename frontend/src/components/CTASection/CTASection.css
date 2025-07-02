@@ -1,0 +1,41 @@
+.cta {
+  text-align: center;
+  color: white;
+  margin-top: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+}
+
+.cta h2 {
+  font-size: 2rem;
+}
+
+.highlight {
+  color: #479BFF;
+}
+
+.cta p {
+  max-width: 540px;
+  height: fit-content;
+  margin: 10px 0 20px;
+}
+
+.cta-btn{
+  padding: 10px 20px;
+  width: 174px;
+  height: 51px;
+  background: #ffffff;
+  color: #000;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: 0.3s ease;
+}
+
+.cta button:hover {
+  background: #dceaff;
+}
