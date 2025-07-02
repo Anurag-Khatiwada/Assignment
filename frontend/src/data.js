@@ -62,4 +62,4 @@ const jobs = [
 
 
 
-export {jobs,team}
+export {jobs,partners}
