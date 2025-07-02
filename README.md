@@ -6,7 +6,7 @@ This project (Assignment) contains three fully responsive frontend pages based o
 
 
 ## 🎥 Demo
-If applicable, include screenshots, GIFs, or a link to a deployed demo here.
+(https://assignment-project-70z8q58ys-anurag-khatiwadas-projects.vercel.app/)
 
 ---
 
